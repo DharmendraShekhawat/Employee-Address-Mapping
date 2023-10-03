@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Assignment" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.geekster.mapping.Application" />
+    <module name="1-1-mapping" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
